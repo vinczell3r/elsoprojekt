@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    background-color: rgb(5, 202, 202);
+    color: rgb(255, 255, 255);
+}
+
+nav{
+    border: 2px ;
+}
+
+nav ul{
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+
+}
