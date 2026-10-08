@@ -1,8 +1,10 @@
-Téma: Sneaker webshop
-Név: például KICKZONE
-Cél: egy modern, fiktív sneaker webáruház bemutatása, ahol különböző márkák és modellek között lehet böngészni.
+# PROJEKTMUNKA
 
-Tervezett oldalak:
+- Téma: Sneaker webshop
+- Név: például KICKZONE
+- Cél: egy modern, fiktív sneaker webáruház bemutatása,ahol különböző márkák és modellek között lehet böngészni.
+
+## Tervezett oldalak:
 
 - Főoldal
 - Sneakerek / termékek
@@ -11,11 +13,11 @@ Tervezett oldalak:
 - Rólunk
 - Kapcsolat
 
-Termékeknél például:
+## Termékeknél például:
 
-Nike Air Force 1
-Air Jordan 1
-Adidas Campus
-New Balance 550
-Adidas Samba
-Nike Dunk
+- Nike Air Force 1
+- Air Jordan 1
+- Adidas Campus
+- New Balance 550
+- Adidas Samba
+- Nike Dunk
