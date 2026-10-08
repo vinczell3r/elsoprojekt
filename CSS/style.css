@@ -5,18 +5,18 @@
 .cim{
     text-align: center;
     margin: 5px 10px 5px 10px;
-    border: 3px solid rgb(5, 202, 202);
+    border: 3px solid rgb(252, 115, 2);
     border-radius: 25px;
-    background-color:  rgb(78, 224, 224);
-    color: rgb(255, 255, 255);
+    background-color:  rgb(14, 12, 12);
+    color: rgb(253, 118, 55);
 }
 
 nav{
     border: 2px ;
-    background-color:  rgb(78, 224, 224); 
+    background-color:  rgb(14, 12, 12); 
     margin: 0px 0 10px 0;
     border-radius: 25px;
-    border: 3px solid rgb(5, 202, 202);
+    border: 3px solid rgb(253, 118, 55);
 }
 
 nav ul{
@@ -30,12 +30,12 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: white;
+    color: rgb(253, 118, 55);
 
 }
 nav ul li a:hover{
     
-    color: rgb(78, 224, 224);
+    color: rgb(202, 1, 1);
 
 }
 
