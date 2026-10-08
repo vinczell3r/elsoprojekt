@@ -2,15 +2,21 @@
     box-sizing: border-box;
 }
 
-h1 {
+.cim{
     text-align: center;
-    margin: 20px 0;
-    background-color: rgb(5, 202, 202);
+    margin: 5px 10px 5px 10px;
+    border: 3px solid rgb(5, 202, 202);
+    border-radius: 25px;
+    background-color:  rgb(78, 224, 224);
     color: rgb(255, 255, 255);
 }
 
 nav{
     border: 2px ;
+    background-color:  rgb(78, 224, 224); 
+    margin: 0px 0 10px 0;
+    border-radius: 25px;
+    border: 3px solid rgb(5, 202, 202);
 }
 
 nav ul{
@@ -19,6 +25,7 @@ nav ul{
 
 nav ul li{
     display: inline-block;
+    
 }
 
 nav ul li a{
@@ -26,3 +33,9 @@ nav ul li a{
     color: white;
 
 }
+nav ul li a:hover{
+    
+    color: rgb(78, 224, 224);
+
+}
+

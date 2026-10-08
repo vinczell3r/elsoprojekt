@@ -1,8 +1,10 @@
 # PROJEKTMUNKA
 
 - Téma: Sneaker webshop
-- Név: például KICKZONE
-- Cél: egy modern, fiktív sneaker webáruház bemutatása,ahol különböző márkák és modellek között lehet böngészni.
+- Név: KICKZONE
+- Retró stílusú weboldalt tervezek csinálni, erős színekkel, de közben mégis letisztultan és átláthatóan
+- Világos témájú
+
 
 ## Tervezett oldalak:
 
@@ -14,6 +16,7 @@
 - Kapcsolat
 
 ## Termékeknél például:
+### Alap cipők:
 
 - Nike Air Force 1
 - Air Jordan 1
