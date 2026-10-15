@@ -8,6 +8,21 @@ body{
     background-repeat: no-repeat;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    color: rgb(9, 10, 17);
+}
+
 .cim{
     float: left;
     margin: 5px 10px 5px 10px;
@@ -53,8 +68,19 @@ nav ul li a:hover{
 
 }
 
-#akciosak{
-    height: 200px;
-    width: 200px;
+.btn{
+    color: rgb(253, 118, 55);
+    background-color: black;
+}
+
+.btn:hover{
+    font-style: italic;
+    color: black;
+    background-color: rgb(253, 118, 55);
+}
+
+.card-body{
+    background-color:rgb(97, 37, 10);
+    color: rgb(253, 118, 55);
 }
 
